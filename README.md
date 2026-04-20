@@ -1,5 +1,5 @@
 Hi, I'm Prince 👋  
-I’m a Computer Science & Engineering student.  
+I’m a Computer Science & Engineering student at NIT Patna.  
 I’m interested in full-stack web development.  
 I enjoy problem solving and learning new technologies.  
 
